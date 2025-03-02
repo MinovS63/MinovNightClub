@@ -1,7 +1,9 @@
 MinovNightClub
 is a simple Windows Forms application that simulates a nightclub experience, where users can deposit money, choose event dates, and place drink orders. The app is divided into three main sections:
 
-To start it type this in cmd: git clone https://github.com/MinovS63/MinovNightClub.git
+-> To start it type this in cmd: git clone https://github.com/MinovS63/MinovNightClub.git
+    - Then open the .sln file
+-> other way is to open the exe
 
 
 Main Form: Allows users to manage their balance.
