@@ -79,7 +79,7 @@
             btnFriday1.Name = "btnFriday1";
             btnFriday1.Size = new Size(113, 63);
             btnFriday1.TabIndex = 2;
-            btnFriday1.Text = "RESERVE";
+            btnFriday1.Text = "ORDER DRINKS";
             btnFriday1.UseVisualStyleBackColor = true;
             btnFriday1.Click += btnFriday1_Click;
             // 
@@ -90,7 +90,7 @@
             btnFriday2.Name = "btnFriday2";
             btnFriday2.Size = new Size(113, 63);
             btnFriday2.TabIndex = 3;
-            btnFriday2.Text = "RESERVE";
+            btnFriday2.Text = "ORDER DRINKS";
             btnFriday2.UseVisualStyleBackColor = true;
             btnFriday2.Click += btnFriday2_Click;
             // 
@@ -101,7 +101,7 @@
             btnSaturday1.Name = "btnSaturday1";
             btnSaturday1.Size = new Size(113, 63);
             btnSaturday1.TabIndex = 4;
-            btnSaturday1.Text = "RESERVE";
+            btnSaturday1.Text = "ORDER DRINKS";
             btnSaturday1.UseVisualStyleBackColor = true;
             btnSaturday1.Click += btnSaturday1_Click;
             // 
@@ -112,7 +112,7 @@
             btnSaturday2.Name = "btnSaturday2";
             btnSaturday2.Size = new Size(113, 63);
             btnSaturday2.TabIndex = 5;
-            btnSaturday2.Text = "RESERVE";
+            btnSaturday2.Text = "ORDER DRINKS";
             btnSaturday2.UseVisualStyleBackColor = true;
             btnSaturday2.Click += btnSaturday2_Click;
             // 
